@@ -17,7 +17,7 @@ async def start(_, message: Message):
 ┣ > 𝙹𝙸𝙺𝙰 𝚃𝙸𝙳𝙰𝙺, 𝙰𝚂𝙸𝚂𝚃𝙴𝙽 𝚃𝙸𝙳𝙰𝙺 𝙰𝙺𝙰𝙽 𝙽𝙰𝙸𝙺.
 ┗━━━━━━━━━━━━━━
 🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [KING](https://t.me/boyfriendnice)
-☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/kawan_virtuals)
+☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/Familythunder)
 ━━━━━━━━━━━━━━
 𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @virtualsongbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantMusicVirtual
 
