@@ -1,5 +1,5 @@
 
-<h2 align="centre">🎵 VIRTUAL MUSIC!</h1>
+<h2 align="centre">🎵 VIRTUAL MUSIC BOT!</h1>
 
 ### Aku Pemutar Musik Di-Telegram, Aku Akan Menemani Ke-Galauan Di VOICE CHAT GRUP!
 
